@@ -1,0 +1,7 @@
+
+
+#i32 number 4
+
+#if (number < 4)
+	#console ("Numer smaller than 4")
+#end (if)
